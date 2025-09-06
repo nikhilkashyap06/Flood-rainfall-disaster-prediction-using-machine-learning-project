@@ -520,7 +520,7 @@ ul#nav li a {
 
 ul#nav li a:hover,
 ul#nav li.active a {
-    color: #f39c12;
+    color: #12d9f3;
 }
 
 .is-sticky ul#nav li a {
@@ -614,8 +614,8 @@ ul#nav li ul a,
 
 .home-button a {
     border: 2px solid;
-    border-radius: 3px;
-    color: #fff;
+    border-radius: 10%;
+    color: #ffffff25;
     letter-spacing: 2px;
     padding: 12px 30px;
     text-transform: uppercase;
@@ -626,8 +626,8 @@ ul#nav li ul a,
 }
 
 .home-button a:hover {
-    background: #f39c12 none repeat scroll 0 0;
-    border-color: #f39c12;
+    background: #12d1f341 none repeat scroll 0 0;
+    border-color: #12f3f3;
     color: #ffffff;
 }
 

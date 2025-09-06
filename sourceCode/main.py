@@ -144,8 +144,7 @@ def rainfallResult():
         return redirect(url_for('rainfallHome'))
 
 
-    # return render_template('rainfallResult.html')
-
+    # return render_template('rainfallResult.html'
 
 if __name__ == '__main__':
     app.run(debug = True)

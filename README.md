@@ -13,7 +13,7 @@
 
 ## STEPS TAKEN IN THE PROCESS:->
 #### CONNECTION TO HTML:
-1.	 A user issues a request for a domain's root URL / to go to its index page
+1.	 A user issues a request for a domain's root URL / to go to its index page.
 2.	main.py maps the URL / to a Python function
 3.	The Python function finds a web template living in the templates/ folder.
 4.	A web template will look in the static/ folder for any images, CSSfiles it needs as it renders to HTML
